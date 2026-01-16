@@ -666,7 +666,6 @@ dan berbagai layanan verifikasi secara instan.
 1.📱 Order Nomor Virtual (OTP Real-Time)   
 2.☎ Bantuan Customer Service  
 
-<b>💰 Saldo Anda:</b> ${toRupiah(saldo)}
 Harga Bisa Berubah Sewaktu Waktu
 <b>🚀 Silakan pilih menu di bawah untuk memulai:</b></blockquote>`;
 
@@ -889,7 +888,6 @@ dan berbagai layanan verifikasi secara instan.
 1.📱 Order Nomor Virtual (OTP Real-Time)   
 2.☎ Bantuan Customer Service  
 
-<b>💰 Saldo Anda:</b> ${toRupiah(saldo)}
 Harga Bisa Berubah Sewaktu Waktu
 <b>🚀 Silakan pilih menu di bawah untuk memulai:</b></blockquote>`;
 
