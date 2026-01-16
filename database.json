@@ -1,0 +1,33 @@
+{
+  "isPanelOpen": true,
+  "paymentMethod": "orkut",
+  "users": {
+    "7355538049": {
+      "orders": [
+        {
+          "product": "123",
+          "amount": 5000,
+          "time": "2026-01-09T00:00:00Z"
+        },
+        {
+          "product": "456",
+          "amount": 7000,
+          "time": "2026-01-09T01:00:00Z"
+        }
+      ],
+      "deposits": [],
+      "balance": 0,
+      "level": 1,
+      "name": "Farin Modss",
+      "username": "farinmodssv2"
+    },
+    "8580609272": {
+      "orders": 0,
+      "deposits": [],
+      "balance": 0,
+      "level": 1,
+      "name": "CS BOT PEMERSATU",
+      "username": "Csbotpemersatu"
+    }
+  }
+}
