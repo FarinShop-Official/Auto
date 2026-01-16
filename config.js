@@ -18,8 +18,8 @@ riwayat_transaksi: "https://i.ibb.co/B5Bdfjnq/IMG-20260109-045035.jpg",
 
 //======= Setting RUMAHOTP =======//
 RUMAHOTP: "otp_nzlMXdTwupWlVJTL",
-UNTUNG_NOKOS: 2000,
-UNTUNG_DEPOSIT: 500,
+UNTUNG_NOKOS: 1000,
+UNTUNG_DEPOSIT: 750,
 ppthumb: "https://i.ibb.co/pjDfdk9d/file-000000002ae072078ebda61e55840b15.png",
 
 //======= Setting Orkut =======//
