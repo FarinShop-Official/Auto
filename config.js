@@ -1,17 +1,17 @@
 module.exports = {
 
 //======= Setting Telegram =======//
-botToken: "8231087080:AAFLQcBwiMqG6rx8wY2-rzw6PU5X8k8keAA",
+botToken: "8084526858:AAHGZ2hVK_7mzO-eMBnirdG-WqSEkK-n9Oo",
 ownerId: 7355538049,
 ownerName: "farin",
 ownerWa: "Tidak Tersedia",
 ownerUser: "@farinmodssv2",
 botName: "𝐁𝐎𝐓 𝐀𝐔𝐓𝐎 𝐎𝐑𝐃𝐄𝐑",
 startPhoto: "https://i.ibb.co/pjDfdk9d/file-000000002ae072078ebda61e55840b15.png",
-startAudio: "https://files.catbox.moe/1u42o5.mp3",
-startAudioCaption: "𝔚𝔢𝔩𝔠𝔬𝔪𝔢 𝔗𝔬 𝔅𝔬𝔱𝔷 𝔞𝔲𝔱𝔬 𝔬𝔯𝔡𝔢𝔯",
-testimoniChannel: "@ujicobadhdhhdjh",
-ChannelOwner: "https://t.me/ujicobadhdhhdj",
+startAudio: "",
+startAudioCaption: "",
+testimoniChannel: "@farinmods",
+ChannelOwner: "https://t.me/farinnewera",
 GroupOwner: "https://t.me/+NKCShnwcRZY4YTM5",
 Profil_pengguna: "https://i.ibb.co/pjDfdk9d/file-000000002ae072078ebda61e55840b15.png",
 riwayat_transaksi: "https://i.ibb.co/B5Bdfjnq/IMG-20260109-045035.jpg",
