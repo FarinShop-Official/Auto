@@ -657,8 +657,7 @@ bot.start(async (ctx) => {
   
   const cleanFirstName = cleanText(ctx.from.first_name || 'Pengguna');
   
-  const welcomeText = `<blockquote>
-  👋 Hai ${cleanFirstName}
+  const welcomeText = `<blockquote>👋 Hai ${cleanFirstName}
 Selamat datang di bot layanan otp otomatis 24/7 <b>Farin Shop</b> ,Nikmati kemudahan pembelian Nomor Virtual (Nokos)  
 dan berbagai layanan verifikasi secara instan.
 
@@ -679,7 +678,7 @@ Harga Bisa Berubah Sewaktu Waktu
       { text: "🏆 ☇ 𝐓𝐨𝐩 𝐔𝐬𝐞𝐫", callback_data: "top_user" },
       { text: "👤☇ 𝐏𝐫𝐨𝐟𝐢𝐥", callback_data: "menu_profil" }
       ],
-      [{ text: "👑 ☇ 𝐂𝐮𝐬𝐭𝐨𝐦𝐞𝐫 𝐒𝐞𝐫𝐯𝐢𝐜𝐞", callback_data: "menu_owner_contact" }]
+      [{ text: "⚠️ ☇ 𝐂𝐮𝐬𝐭𝐨𝐦𝐞𝐫 𝐒𝐞𝐫𝐯𝐢𝐜𝐞", callback_data: "menu_owner_contact" }]
     ]
   };
 
@@ -804,8 +803,7 @@ bot.action("menu_profil", async (ctx) => {
 
 const saldo = getSaldo(user.id);
 
-const text = `<blockquote>
-<b>📊 PROFIL PENGGUNA</b>
+const text = `<blockquote><b>📊 PROFIL PENGGUNA</b>
 ━━━━━━━━━━━━━━━━━━━━━━
 <b>👤 Informasi Akun</b>
 Nama     : ${user.first_name || "-"}
@@ -879,8 +877,7 @@ bot.action("back_home", async (ctx) => {
   
   const cleanFirstName = cleanText(ctx.from.first_name || 'Pengguna');
   
-  const welcomeText = `<blockquote>
-  👋 Hai ${cleanFirstName}
+  const welcomeText = `<blockquote>👋 Hai ${cleanFirstName}
 Selamat datang di bot layanan otp otomatis 24/7 <b>Farin Shop</b> ,Nikmati kemudahan pembelian Nomor Virtual (Nokos)  
 dan berbagai layanan verifikasi secara instan.
 
@@ -901,7 +898,7 @@ Harga Bisa Berubah Sewaktu Waktu
       { text: "🏆 ☇ 𝐓𝐨𝐩 𝐔𝐬𝐞𝐫", callback_data: "top_user" },
       { text: "👤☇ 𝐏𝐫𝐨𝐟𝐢𝐥", callback_data: "menu_profil" }
       ],
-      [{ text: "👑 ☇ 𝐂𝐮𝐬𝐭𝐨𝐦𝐞𝐫 𝐒𝐞𝐫𝐯𝐢𝐜𝐞", callback_data: "menu_owner_contact" }]
+      [{ text: "⚠️ ☇ 𝐂𝐮𝐬𝐭𝐨𝐦𝐞𝐫 𝐒𝐞𝐫𝐯𝐢𝐜𝐞", callback_data: "menu_owner_contact" }]
     ]
   };
 
