@@ -1,4 +1,3 @@
-
 const fs = require("fs");
 const chalk = require("chalk");
 
@@ -22,8 +21,8 @@ RUMAHOTP: "otp_nzlMXdTwupWlVJTL",
 nomor_pencairan_RUMAHOTP: "hh", // masi dalam masa percobaan
 type_ewallet_RUMAHOTP: "dana", // masi dalam masa percobaan
 atas_nama_ewallet_RUMAHOTP: "aisyah", // masi dalam masa percobaan
-UNTUNG_NOKOS: 1500,
-UNTUNG_DEPOSIT: 500,
+UNTUNG_NOKOS: 1000,
+UNTUNG_DEPOSIT: 450,
 
 };
 
