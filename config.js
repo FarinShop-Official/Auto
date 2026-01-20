@@ -14,14 +14,14 @@ ownerName: "Farin",
   
 //==============================================[ SETTING IMAGE ]=======//
 ppthumb: "https://i.ibb.co/pjDfdk9d/file-000000002ae072078ebda61e55840b15.png",       // Foto utama bot (/start)
-id_channel_price: "-1003032034957",
+id_channel_price: "-1003291462039",
 //==============================================[ SETTING OTPNUM ]=======//
 RUMAHOTPV2: "otp_nzlMXdTwupWlVJTL", //token sama seperti di bawah 
 RUMAHOTP: "otp_nzlMXdTwupWlVJTL",
 nomor_pencairan_RUMAHOTP: "hh", // masi dalam masa percobaan
 type_ewallet_RUMAHOTP: "dana", // masi dalam masa percobaan
 atas_nama_ewallet_RUMAHOTP: "aisyah", // masi dalam masa percobaan
-UNTUNG_NOKOS: 1000,
+UNTUNG_NOKOS: 250,
 UNTUNG_DEPOSIT: 500,
 
 };
