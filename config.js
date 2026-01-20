@@ -6,7 +6,7 @@ TOKEN: "8084526858:AAHGZ2hVK_7mzO-eMBnirdG-WqSEkK-n9Oo", // Token dari @BotFathe
 OWNER_ID: "7355538049", // ID Telegram owner
 urladmin: "https://t.me/farinmodssv2",
 urlchannel: "https://t.me/farinmods",
-idchannel: "-1003516831914", // isi id channel untung notifikasi
+idchannel: "-1003032034957", // isi id channel untung notifikasi
 botName: "Farin Shop Auto Order",
 version: "1.0.0",
 authorName: "@FarinShop_bot",
@@ -21,7 +21,7 @@ RUMAHOTP: "otp_nzlMXdTwupWlVJTL",
 nomor_pencairan_RUMAHOTP: "hh", // masi dalam masa percobaan
 type_ewallet_RUMAHOTP: "dana", // masi dalam masa percobaan
 atas_nama_ewallet_RUMAHOTP: "aisyah", // masi dalam masa percobaan
-UNTUNG_NOKOS: 950,
+UNTUNG_NOKOS: 1000,
 UNTUNG_DEPOSIT: 500,
 
 };
