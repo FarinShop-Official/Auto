@@ -1,0 +1,49 @@
+{
+  "1831070346": {
+    "referredUsers": [
+      "8426536863"
+    ],
+    "totalEarned": 300,
+    "totalReferrals": 1,
+    "createdAt": "2026-01-21T11:37:56.204Z"
+  },
+  "8327141882": {
+    "referredUsers": [
+      "8364424931"
+    ],
+    "totalEarned": 300,
+    "totalReferrals": 1,
+    "createdAt": "2026-01-21T01:54:07.302Z"
+  },
+  "6884618766": {
+    "referredUsers": [
+      "7602246390",
+      "6617086875",
+      "7342091728",
+      "8572401530"
+    ],
+    "totalEarned": 1200,
+    "totalReferrals": 4,
+    "createdAt": "2026-01-21T09:20:18.838Z"
+  },
+  "6629662847": {
+    "referredUsers": [
+      "1404351469",
+      "8510894199",
+      "8254051168",
+      "7604112691",
+      "7497813139"
+    ],
+    "totalEarned": 1500,
+    "totalReferrals": 5,
+    "createdAt": "2026-01-21T15:22:42.325Z"
+  },
+  "8254051168": {
+    "referredUsers": [
+      "6629662847"
+    ],
+    "totalEarned": 300,
+    "totalReferrals": 1,
+    "createdAt": "2026-01-21T18:42:42.871Z"
+  }
+}
