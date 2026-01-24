@@ -4680,7 +4680,6 @@ Silakan pilih menu di bawah untuk memulai:
       show_alert: true,
     });
   }
-}
 
 } catch (err) {
     console.error(err);
